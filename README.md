@@ -1,4 +1,4 @@
-# Moodies — Scripture by Mood (Single‑File Site)
+# Moodies 
 
 This is a **single‑page** HTML app that surfaces Bible verses based on how someone feels (Sad, Guilt, Anger, Happy, Tired, Anxiety). It’s responsive, touch‑friendly, and includes subtle pink “star” clusters in the page corners.
 
@@ -86,11 +86,7 @@ The verse list is embedded directly in the page. If you need alternate translati
 
 ## Roadmap ideas
 
-- Save favorites (localStorage)
-- Copy/share verse button
-- Translation toggle
-- Daily reminder (requires Push API / simple backend)
-- Print/PDF view
+- Stay tuned to find out
 
 ---
 
