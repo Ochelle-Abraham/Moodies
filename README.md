@@ -4,7 +4,7 @@ This is a **single‑page** HTML app that surfaces Bible verses based on how som
 
 ## What’s inside
 
-- One file: `test.html`
+- One file: `index.html`
 - Sections:
   - **Home** (title typing effect, slogan, Get Started)
   - **Select Mood** (2×3 grid; adapts on small screens)
