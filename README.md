@@ -1,6 +1,6 @@
 # Moodies 
 
-This is a **single‑page** HTML app that surfaces Bible verses based on how someone feels (Sad, Guilt, Anger, Happy, Tired, Anxiety). It’s responsive, touch‑friendly, and includes subtle pink “star” clusters in the page corners.
+This is a **single‑page** HTML app that surfaces Bible verses based on how someone feels (Sad, Guilt, Anger, Happy, Tired, Anxiety). It’s responsive, touch‑friendly, and includes subtle pink “star” clusters in the page corners. And yes it is live !!!!! Check it out at https://ochelle-abraham.github.io/Moodies/
 
 ## What’s inside
 
